@@ -3,7 +3,7 @@
 Here it begins my path on this C++ course where we started with some basic stuff
 as arrays, variables, pointer and a little bit of Object Oriented programming. 
 
-I'm very anxious about the other projects...
+I'm very anxious for the other projects...
 
 ## Route Planning Project
 
