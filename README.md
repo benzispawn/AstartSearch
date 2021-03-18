@@ -1,4 +1,11 @@
-# Route Planning Project
+# My first Project on the C++ Udacity Course
+
+Here it begins my path on this C++ course where we started with some basic stuff
+as arrays, variables, pointer and a little bit of Object Oriented programming. 
+
+I'm very anxious about the other projects...
+
+## Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
 
